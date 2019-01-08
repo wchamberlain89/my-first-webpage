@@ -1,0 +1,21 @@
+body {
+	margin : 0 auto;
+	width : 66%;
+	text-align: center;
+}
+
+img {
+	width : 150px;
+}
+
+li {
+	list-style-type: none;
+}
+
+li a {
+	display: block;
+}
+
+h1 {
+	font-family: georgia;
+}
