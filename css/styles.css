@@ -16,3 +16,8 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.background {
+	color: #ffffd4;
+	width: 66%;
+}
